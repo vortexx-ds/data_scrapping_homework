@@ -1,49 +1,49 @@
 Aircraft Type,Role,Origin,Quantity
-Dassault Rafale,France,Multirole,DH
-HAL Tejas,India,Multirole,Mk.1
-Conversion trainer,Mk.1 Trainer,4[4][5],Used for training; 14 more on order[6]
-Multirole,Mk.1A,,"73 on order, 97 more approved[6][7]"
-Sukhoi Su-30MKI,Russia,Multirole,Su-30MKI Flanker H
-Mikoyan MiG-29,Soviet Union,Multirole,Fulcrum
-Dassault Mirage 2000,France,Multirole,-2000H
-SEPECAT Jaguar,United Kingdom,Attack,IB
-Mikoyan-Gurevich MiG-21,Soviet Union,Interceptor,MiG-21 Bison
-Embraer R-99,Brazil,AEW&C,Netra Mk1
-Beriev A-50,Soviet Union,AEW&C,A-50EI
-Boeing 707,United States,SIGINT / ELINT,707-337C Phalcon
-Global 5000,United States,SIGINT / ELINT,
-Gulfstream III,United States,ELINT,SRA[21]
-Boeing 737,United States,SIGINT / ELINT,737-700
-Gulfstream G100,Israel,surveillance,1125 Astra
-Ilyushin Il-78,Soviet Union,aerial refuelling,Il-78MKI
-Boeing 777,United States,VIP transport,777-300ER
-Embraer Legacy 600,Brazil,VIP transport,
-Boeing C-17,United States,strategic airlifter,
-Ilyushin Il-76,Soviet Union,strategic airlifter,Il-76MD
-C-130J Super Hercules,United States,tactical airlifter,C-130J-30[24]
-Airbus A321,Europe,transport,A321-200
-Antonov An-32,Soviet Union,tactical airlifter,
-Airbus C-295,Spain,tactical airlifter,C-295W
-Hawker Siddeley HS 748,United Kingdom,tactical airlifter,
-Dornier 228,Germany,tactical airlifter,228-201
-Boeing AH-64,United States,attack,AH-64E
-Mil Mi-24,Russia,attack,Mi-25/35
-HAL Prachand,India,attack,
-HAL Rudra,India,attack,
-CH-47 Chinook,United States,transport,CH-47F
-Mil Mi-17,Russia,utility,Mi-17V-5
-HAL Dhruv,India,utility,
-HAL Light Utility Helicopter,India,utility,
-Alouette III,France/India,liaison,Chetak
-SA 315B Lama,France/India,utility,Cheetah
-BAE Hawk,United Kingdom,Advanced trainer,Hawk 132
-HAL Kiran,India,Intermediate trainer,
-HAL HTT-40,India,Basic trainer,
-Pilatus PC-7,Switzerland,Basic trainer,Mk II
-Pipistrel Virus,Slovenia,Ab initio trainer,
-IAI Heron,Israel,Surveillance,Mk 1
-IAI Searcher,Mk 1/2,,[41]
-MQ-9 Reaper,United States,Surveillance/ Combat,SkyGuardian
-ALS-50,India,loitering munition,
-Kadet Loitering Aerial Munition,,50+ on order,"Developed by DRDO and KDS
+Dassault Rafale,Multirole,France,DH
+HAL Tejas,Multirole,India,Mk.1
+Conversion trainer,4[4][5],Mk.1 Trainer,Used for training; 14 more on order[6]
+Multirole,,Mk.1A,"73 on order, 97 more approved[6][7]"
+Sukhoi Su-30MKI,Multirole,Russia,Su-30MKI Flanker H
+Mikoyan MiG-29,Multirole,Soviet Union,Fulcrum
+Dassault Mirage 2000,Multirole,France,-2000H
+SEPECAT Jaguar,Attack,United Kingdom,IB
+Mikoyan-Gurevich MiG-21,Interceptor,Soviet Union,MiG-21 Bison
+Embraer R-99,AEW&C,Brazil,Netra Mk1
+Beriev A-50,AEW&C,Soviet Union,A-50EI
+Boeing 707,SIGINT / ELINT,United States,707-337C Phalcon
+Global 5000,SIGINT / ELINT,United States,
+Gulfstream III,ELINT,United States,SRA[21]
+Boeing 737,SIGINT / ELINT,United States,737-700
+Gulfstream G100,surveillance,Israel,1125 Astra
+Ilyushin Il-78,aerial refuelling,Soviet Union,Il-78MKI
+Boeing 777,VIP transport,United States,777-300ER
+Embraer Legacy 600,VIP transport,Brazil,
+Boeing C-17,strategic airlifter,United States,
+Ilyushin Il-76,strategic airlifter,Soviet Union,Il-76MD
+C-130J Super Hercules,tactical airlifter,United States,C-130J-30[24]
+Airbus A321,transport,Europe,A321-200
+Antonov An-32,tactical airlifter,Soviet Union,
+Airbus C-295,tactical airlifter,Spain,C-295W
+Hawker Siddeley HS 748,tactical airlifter,United Kingdom,
+Dornier 228,tactical airlifter,Germany,228-201
+Boeing AH-64,attack,United States,AH-64E
+Mil Mi-24,attack,Russia,Mi-25/35
+HAL Prachand,attack,India,
+HAL Rudra,attack,India,
+CH-47 Chinook,transport,United States,CH-47F
+Mil Mi-17,utility,Russia,Mi-17V-5
+HAL Dhruv,utility,India,
+HAL Light Utility Helicopter,utility,India,
+Alouette III,liaison,France/India,Chetak
+SA 315B Lama,utility,France/India,Cheetah
+BAE Hawk,Advanced trainer,United Kingdom,Hawk 132
+HAL Kiran,Intermediate trainer,India,
+HAL HTT-40,Basic trainer,India,
+Pilatus PC-7,Basic trainer,Switzerland,Mk II
+Pipistrel Virus,Ab initio trainer,Slovenia,
+IAI Heron,Surveillance,Israel,Mk 1
+IAI Searcher,,Mk 1/2,[41]
+MQ-9 Reaper,Surveillance/ Combat,United States,SkyGuardian
+ALS-50,loitering munition,India,
+Kadet Loitering Aerial Munition,50+ on order,,"Developed by DRDO and KDS
 Multiple variants; Weight - 15 to 120 kg; Warhead - 2 to 40 kg; Max. Endurance - 12 hrs; Max. Range - 150 to 300 km; Canister launched and vertical take-off and landing (VTOL) variants[44][45]"
